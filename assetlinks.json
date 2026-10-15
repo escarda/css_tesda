@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.hostingersite.mintcream_rabbit_742336.twa",
+        "sha256_cert_fingerprints": ["B4:AB:35:61:82:05:59:6F:DD:8A:39:8A:24:4B:81:CE:6D:C7:34:E3:6F:BD:0C:85:FE:C4:B4:8B:71:26:4D:94"]
+      }
+    }]
